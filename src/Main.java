@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ParcAutomobile monparcAutomobile = new ParcAutomobile();
+        System.out.println("____________________________Gestion de Parc Automobile - Location Simplifiée_____________________________________");
         System.out.println("\n_____________BIENVENUE_______________");
         int choix;
       try {
